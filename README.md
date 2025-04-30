@@ -1,1 +1,1 @@
-# Manage.py
+web: gunicorn kzsauda.wsgi --log-file -
